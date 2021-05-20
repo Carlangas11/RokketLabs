@@ -1,0 +1,16 @@
+{
+  "name": "rokketlabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7"
+  }
+}
